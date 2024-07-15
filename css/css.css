@@ -655,57 +655,6 @@ body {
 
 
 
-/* .section08 {
-    max-width: 1920px;
-    width: calc(100% - 60px);
-    margin: 100px auto;
-}
-.section08 h1 {
-    font-size: 150px;
-    margin-bottom: 50px;
-}
-.section08 .wrap {
-    display: flex;
-    justify-content: space-between;
-}
-.section08 .wrap .left {
-    width: 49%;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-.section08 .wrap .left figure {
-    width: 49%;
-    border-radius: 25px;
-    overflow: hidden;
-}
-.section08 .wrap .left figure img {
-    width: 100%;
-    object-fit: cover;
-    transition: 0.7s;
-}
-.section08 .wrap .left .text {
-    width: 100%;
-    font-size: 80px;
-    height: 50%;
-}
-
-.section08 .wrap .left figure:hover img {
-    transform: scale(1.1);
-}
-
-
-.section08 .wrap .right {
-    width: 49%;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-.section08 .wrap .right figure {
-    width: 49%;
-    border-radius: 25px;
-    overflow: hidden;
-} */
 
 
 .section08 {
